@@ -58,7 +58,7 @@
 
 ```bash
 # استنساخ المستودع
-git clone https://github.com/seekep/seekep.git
+git clone https://github.com/droy-go/seekep.git
 cd seekep
 
 # بناء المشروع
